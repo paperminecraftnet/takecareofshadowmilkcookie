@@ -7,7 +7,8 @@ Are you ready to embark on a heartwarming cookie care adventure? Let's get start
 
 - [Take Care Of Your Cookie](https://takecareofyourcookie.com)
 
-[![Take Care Of Your Cookie](https://s.takecareofyourcookie.com/games/shadow-milk/display.png)]([https://s.takecareofyourcookie.com/games/shadow-milk/image.png](https://s.takecareofyourcookie.com/games/take-care-of-your-own-shadow-milk/image.png))
+[![Take Care Of Your Cook](https://s.takecareofyourcookie.com/games/take-care-of-your-own-shadow-milk/image.png)](https://s.takecareofyourcookie.com/games/take-care-of-your-own-shadow-milk/image.png)
+
 
 # Instructions
 [Click/Touch] - Select Care Activities
